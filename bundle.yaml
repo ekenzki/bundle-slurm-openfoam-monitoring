@@ -28,5 +28,3 @@ relations:
     - ganglia-node:node
   - - open-foam:juju-info
     - slurm-node:juju-info
-  - - open-foam:juju-info
-    - slurm-controller:juju-info
